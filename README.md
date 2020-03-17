@@ -1,4 +1,4 @@
 # Lemmings
 School project for subject programming languages
 
-Free for use.
+Free to use.
